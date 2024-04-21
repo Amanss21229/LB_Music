@@ -38,7 +38,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/our_bot_update")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bot_buddy_aman")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/friend_zone_group")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
